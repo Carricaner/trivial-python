@@ -1,0 +1,5368 @@
+{
+  "meta": {
+    "name": "openaq-api",
+    "license": "",
+    "website": "/",
+    "page": 1,
+    "limit": 100,
+    "found": 16192,
+    "pages": 162
+  },
+  "results": [
+    {
+      "id": 2622649,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "경상북도 봉화군 봉화읍 봉화로 1111 봉화군청 입구",
+      "locations": [
+        "경상북도 봉화군 봉화읍 봉화로 1111 봉화군청 입구"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 36.8924141,
+        "longitude": 128.7316017
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "pm25",
+        "pm10",
+        "o3",
+        "no2",
+        "so2",
+        "co"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 323
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 374
+        },
+        {
+          "parameter": "o3 ppm",
+          "count": 380
+        },
+        {
+          "parameter": "no2 ppm",
+          "count": 380
+        },
+        {
+          "parameter": "so2 ppm",
+          "count": 380
+        },
+        {
+          "parameter": "co ppm",
+          "count": 381
+        }
+      ],
+      "count": 2218
+    },
+    {
+      "id": 5459,
+      "country": "AU",
+      "city": "Tasmania Region",
+      "cities": [
+        "Tasmania Region"
+      ],
+      "location": "Hobart",
+      "locations": [
+        "Hobart"
+      ],
+      "sourceName": "Australia - Tasmania",
+      "sourceNames": [
+        "Australia - Tasmania"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": -42.855,
+        "longitude": 147.315
+      },
+      "firstUpdated": "2017-07-13T14:20:08+00:00",
+      "lastUpdated": "2024-04-07T13:50:05+00:00",
+      "parameters": [
+        "pm10",
+        "pm25"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 46866
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 46866
+        }
+      ],
+      "count": 93732
+    },
+    {
+      "id": 5484,
+      "country": "AU",
+      "city": "Tasmania Region",
+      "cities": [
+        "Tasmania Region"
+      ],
+      "location": "Hadspen",
+      "locations": [
+        "Hadspen"
+      ],
+      "sourceName": "Australia - Tasmania",
+      "sourceNames": [
+        "Australia - Tasmania"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": -41.503,
+        "longitude": 147.067
+      },
+      "firstUpdated": "2017-07-13T14:24:17+00:00",
+      "lastUpdated": "2024-04-07T13:54:06+00:00",
+      "parameters": [
+        "pm10",
+        "pm25"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 46731
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 46729
+        }
+      ],
+      "count": 93460
+    },
+    {
+      "id": 2622574,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "강원특별자치도 고성군 간성읍 흘리 산 1-92(동원농산내 야산)",
+      "locations": [
+        "강원특별자치도 고성군 간성읍 흘리 산 1-92(동원농산내 야산)"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 38.285319,
+        "longitude": 128.390769
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "pm10",
+        "so2",
+        "co",
+        "pm25",
+        "o3",
+        "no2"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 229
+        },
+        {
+          "parameter": "so2 ppm",
+          "count": 246
+        },
+        {
+          "parameter": "co ppm",
+          "count": 248
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 225
+        },
+        {
+          "parameter": "o3 ppm",
+          "count": 247
+        },
+        {
+          "parameter": "no2 ppm",
+          "count": 246
+        }
+      ],
+      "count": 1441
+    },
+    {
+      "id": 5480,
+      "country": "AU",
+      "city": "Tasmania Region",
+      "cities": [
+        "Tasmania Region"
+      ],
+      "location": "Devonport",
+      "locations": [
+        "Devonport"
+      ],
+      "sourceName": "Australia - Tasmania",
+      "sourceNames": [
+        "Australia - Tasmania"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": -41.185,
+        "longitude": 146.345
+      },
+      "firstUpdated": "2017-07-13T14:24:07+00:00",
+      "lastUpdated": "2024-04-07T13:54:06+00:00",
+      "parameters": [
+        "pm10",
+        "pm25"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 46420
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 46412
+        }
+      ],
+      "count": 92832
+    },
+    {
+      "id": 2622673,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "인천 연수구 원인재로 115(동춘동) 연수구의회 옥상",
+      "locations": [
+        "인천 연수구 원인재로 115(동춘동) 연수구의회 옥상"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 37.409493,
+        "longitude": 126.67830899999998
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "so2",
+        "o3",
+        "pm25",
+        "co",
+        "no2",
+        "pm10"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "so2 ppm",
+          "count": 236
+        },
+        {
+          "parameter": "o3 ppm",
+          "count": 237
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 226
+        },
+        {
+          "parameter": "co ppm",
+          "count": 236
+        },
+        {
+          "parameter": "no2 ppm",
+          "count": 236
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 233
+        }
+      ],
+      "count": 1404
+    },
+    {
+      "id": 2622672,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "경북 안동시 퇴계로 115 (명륜동)",
+      "locations": [
+        "경북 안동시 퇴계로 115 (명륜동)"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 36.564207,
+        "longitude": 128.728086
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "no2",
+        "pm25",
+        "co",
+        "pm10",
+        "so2",
+        "o3"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "no2 ppm",
+          "count": 362
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 343
+        },
+        {
+          "parameter": "co ppm",
+          "count": 362
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 357
+        },
+        {
+          "parameter": "so2 ppm",
+          "count": 361
+        },
+        {
+          "parameter": "o3 ppm",
+          "count": 361
+        }
+      ],
+      "count": 2146
+    },
+    {
+      "id": 5476,
+      "country": "AU",
+      "city": "Tasmania Region",
+      "cities": [
+        "Tasmania Region"
+      ],
+      "location": "Lilydale",
+      "locations": [
+        "Lilydale"
+      ],
+      "sourceName": "Australia - Tasmania",
+      "sourceNames": [
+        "Australia - Tasmania"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": -41.25,
+        "longitude": 147.217
+      },
+      "firstUpdated": "2017-07-13T14:22:18+00:00",
+      "lastUpdated": "2024-04-07T13:52:07+00:00",
+      "parameters": [
+        "pm10",
+        "pm25"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 35472
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 35469
+        }
+      ],
+      "count": 70941
+    },
+    {
+      "id": 5473,
+      "country": "AU",
+      "city": "Tasmania Region",
+      "cities": [
+        "Tasmania Region"
+      ],
+      "location": "St Helens",
+      "locations": [
+        "St Helens"
+      ],
+      "sourceName": "Australia - Tasmania",
+      "sourceNames": [
+        "Australia - Tasmania"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": -41.32,
+        "longitude": 148.25
+      },
+      "firstUpdated": "2017-07-13T14:22:24+00:00",
+      "lastUpdated": "2024-04-07T13:52:07+00:00",
+      "parameters": [
+        "pm10",
+        "pm25"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 46411
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 46409
+        }
+      ],
+      "count": 92820
+    },
+    {
+      "id": 2622627,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "경기 부천시 삼작로 109 신흥동주민센터 앞 도로변",
+      "locations": [
+        "경기 부천시 삼작로 109 신흥동주민센터 앞 도로변"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 37.5203,
+        "longitude": 126.7737
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "o3",
+        "pm10",
+        "co",
+        "no2",
+        "so2",
+        "pm25"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "o3 ppm",
+          "count": 274
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 263
+        },
+        {
+          "parameter": "co ppm",
+          "count": 274
+        },
+        {
+          "parameter": "no2 ppm",
+          "count": 274
+        },
+        {
+          "parameter": "so2 ppm",
+          "count": 274
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 273
+        }
+      ],
+      "count": 1632
+    },
+    {
+      "id": 2622575,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "전북특별자치도 임실군 운암면 선거리 51-10",
+      "locations": [
+        "전북특별자치도 임실군 운암면 선거리 51-10"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 35.610533,
+        "longitude": 127.18621699999998
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "pm25",
+        "pm10",
+        "so2",
+        "no2",
+        "o3",
+        "co"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 227
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 244
+        },
+        {
+          "parameter": "so2 ppm",
+          "count": 244
+        },
+        {
+          "parameter": "no2 ppm",
+          "count": 244
+        },
+        {
+          "parameter": "o3 ppm",
+          "count": 244
+        },
+        {
+          "parameter": "co ppm",
+          "count": 245
+        }
+      ],
+      "count": 1448
+    },
+    {
+      "id": 2622562,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "경기 이천시 설성면 신필리",
+      "locations": [
+        "경기 이천시 설성면 신필리"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 37.138467,
+        "longitude": 127.54645
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "o3",
+        "co",
+        "pm10",
+        "so2",
+        "no2",
+        "pm25"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "o3 ppm",
+          "count": 274
+        },
+        {
+          "parameter": "co ppm",
+          "count": 274
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 183
+        },
+        {
+          "parameter": "so2 ppm",
+          "count": 276
+        },
+        {
+          "parameter": "no2 ppm",
+          "count": 275
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 191
+        }
+      ],
+      "count": 1473
+    },
+    {
+      "id": 783884,
+      "country": "HU",
+      "city": "Ajka",
+      "cities": [
+        "Ajka"
+      ],
+      "location": "Ajka",
+      "locations": [
+        "Ajka"
+      ],
+      "sourceName": "Hungary National Meteorological Service",
+      "sourceNames": [
+        "Hungary National Meteorological Service"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 47.103172,
+        "longitude": 17.561381
+      },
+      "firstUpdated": "2023-03-31T15:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "so2",
+        "no2",
+        "pm10",
+        "o3",
+        "pm25",
+        "co"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "so2 µg/m³",
+          "count": 4906
+        },
+        {
+          "parameter": "no2 µg/m³",
+          "count": 4911
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 4627
+        },
+        {
+          "parameter": "o3 µg/m³",
+          "count": 4909
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 4627
+        },
+        {
+          "parameter": "co µg/m³",
+          "count": 4910
+        }
+      ],
+      "count": 28890
+    },
+    {
+      "id": 5460,
+      "country": "AU",
+      "city": "Tasmania Region",
+      "cities": [
+        "Tasmania Region"
+      ],
+      "location": "Mornington",
+      "locations": [
+        "Mornington"
+      ],
+      "sourceName": "Australia - Tasmania",
+      "sourceNames": [
+        "Australia - Tasmania"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": -42.861,
+        "longitude": 147.404
+      },
+      "firstUpdated": "2017-07-13T14:20:17+00:00",
+      "lastUpdated": "2024-04-07T13:50:09+00:00",
+      "parameters": [
+        "pm25",
+        "pm10"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 46724
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 46728
+        }
+      ],
+      "count": 93452
+    },
+    {
+      "id": 2622591,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "대전 서구 정림동로 10(정림동 주민센터) 정림동 주민센터",
+      "locations": [
+        "대전 서구 정림동로 10(정림동 주민센터) 정림동 주민센터"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 36.304667,
+        "longitude": 127.366717
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "pm10",
+        "pm25",
+        "o3",
+        "co",
+        "no2",
+        "so2"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 254
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 244
+        },
+        {
+          "parameter": "o3 ppm",
+          "count": 252
+        },
+        {
+          "parameter": "co ppm",
+          "count": 252
+        },
+        {
+          "parameter": "no2 ppm",
+          "count": 252
+        },
+        {
+          "parameter": "so2 ppm",
+          "count": 252
+        }
+      ],
+      "count": 1506
+    },
+    {
+      "id": 2622587,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "경상남도 산청군 산청읍 산엔청로 1",
+      "locations": [
+        "경상남도 산청군 산청읍 산엔청로 1"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 35.412344,
+        "longitude": 127.87597
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "o3",
+        "no2",
+        "pm10",
+        "so2",
+        "pm25",
+        "co"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "o3 ppm",
+          "count": 267
+        },
+        {
+          "parameter": "no2 ppm",
+          "count": 267
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 262
+        },
+        {
+          "parameter": "so2 ppm",
+          "count": 267
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 259
+        },
+        {
+          "parameter": "co ppm",
+          "count": 267
+        }
+      ],
+      "count": 1589
+    },
+    {
+      "id": 2622622,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "대구 북구 태전동 1076-5 (태암초등학교)(칠곡중앙대로 52길 56) 태암초등학교 남관 4층 옥상",
+      "locations": [
+        "대구 북구 태전동 1076-5 (태암초등학교)(칠곡중앙대로 52길 56) 태암초등학교 남관 4층 옥상"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 35.923033,
+        "longitude": 128.550652
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "o3",
+        "so2",
+        "pm10",
+        "pm25",
+        "co",
+        "no2"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "o3 ppm",
+          "count": 235
+        },
+        {
+          "parameter": "so2 ppm",
+          "count": 237
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 232
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 220
+        },
+        {
+          "parameter": "co ppm",
+          "count": 235
+        },
+        {
+          "parameter": "no2 ppm",
+          "count": 235
+        }
+      ],
+      "count": 1394
+    },
+    {
+      "id": 5242,
+      "country": "AR",
+      "city": "Buenos Aires",
+      "cities": [
+        "Buenos Aires"
+      ],
+      "location": "CENTENARIO",
+      "locations": [
+        "CENTENARIO"
+      ],
+      "sourceName": "Buenos Aires",
+      "sourceNames": [
+        "Buenos Aires"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": -34.60638,
+        "longitude": -58.43194
+      },
+      "firstUpdated": "2017-08-10T23:00:00+00:00",
+      "lastUpdated": "2024-04-07T03:00:00+00:00",
+      "parameters": [
+        "co",
+        "pm10",
+        "no2"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "co ppm",
+          "count": 19611
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 19622
+        },
+        {
+          "parameter": "no2 ppm",
+          "count": 19622
+        }
+      ],
+      "count": 58855
+    },
+    {
+      "id": 2622641,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "부산광역시 남구 이기대공원로 11",
+      "locations": [
+        "부산광역시 남구 이기대공원로 11"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 35.127969,
+        "longitude": 129.115711
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "pm25",
+        "no2",
+        "pm10",
+        "co",
+        "o3",
+        "so2"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 339
+        },
+        {
+          "parameter": "no2 ppm",
+          "count": 385
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 384
+        },
+        {
+          "parameter": "co ppm",
+          "count": 384
+        },
+        {
+          "parameter": "o3 ppm",
+          "count": 385
+        },
+        {
+          "parameter": "so2 ppm",
+          "count": 386
+        }
+      ],
+      "count": 2263
+    },
+    {
+      "id": 5462,
+      "country": "AU",
+      "city": "Tasmania Region",
+      "cities": [
+        "Tasmania Region"
+      ],
+      "location": "Geeveston",
+      "locations": [
+        "Geeveston"
+      ],
+      "sourceName": "Australia - Tasmania",
+      "sourceNames": [
+        "Australia - Tasmania"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": -43.17,
+        "longitude": 146.925
+      },
+      "firstUpdated": "2017-07-13T14:20:18+00:00",
+      "lastUpdated": "2024-04-07T13:50:06+00:00",
+      "parameters": [
+        "pm25",
+        "pm10"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 45882
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 45876
+        }
+      ],
+      "count": 91758
+    },
+    {
+      "id": 2622644,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "전남 광양시 광양읍 인덕로 1100(칠성리)",
+      "locations": [
+        "전남 광양시 광양읍 인덕로 1100(칠성리)"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 34.980817,
+        "longitude": 127.583116
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "no2",
+        "co",
+        "pm25",
+        "o3",
+        "so2",
+        "pm10"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "no2 ppm",
+          "count": 259
+        },
+        {
+          "parameter": "co ppm",
+          "count": 259
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 207
+        },
+        {
+          "parameter": "o3 ppm",
+          "count": 259
+        },
+        {
+          "parameter": "so2 ppm",
+          "count": 258
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 259
+        }
+      ],
+      "count": 1501
+    },
+    {
+      "id": 5466,
+      "country": "AU",
+      "city": "Tasmania Region",
+      "cities": [
+        "Tasmania Region"
+      ],
+      "location": "Triabunna",
+      "locations": [
+        "Triabunna"
+      ],
+      "sourceName": "Australia - Tasmania",
+      "sourceNames": [
+        "Australia - Tasmania"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": -42.509,
+        "longitude": 147.913
+      },
+      "firstUpdated": "2017-07-13T14:20:13+00:00",
+      "lastUpdated": "2024-04-07T13:50:06+00:00",
+      "parameters": [
+        "pm10",
+        "pm25"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 44562
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 44564
+        }
+      ],
+      "count": 89126
+    },
+    {
+      "id": 2622572,
+      "country": "KP",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "경기 파주시 군내면 통일촌길 220 (장단출장소 내)",
+      "locations": [
+        "경기 파주시 군내면 통일촌길 220 (장단출장소 내)"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 37.906227,
+        "longitude": 126.73107999999999
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "so2",
+        "co",
+        "no2",
+        "o3",
+        "pm25",
+        "pm10"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "so2 ppm",
+          "count": 231
+        },
+        {
+          "parameter": "co ppm",
+          "count": 231
+        },
+        {
+          "parameter": "no2 ppm",
+          "count": 230
+        },
+        {
+          "parameter": "o3 ppm",
+          "count": 231
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 237
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 241
+        }
+      ],
+      "count": 1401
+    },
+    {
+      "id": 2622586,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "서울 동대문구 홍릉로 1 (청량리전철역 사거리 SC제일은행 앞)",
+      "locations": [
+        "서울 동대문구 홍릉로 1 (청량리전철역 사거리 SC제일은행 앞)"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 37.580167,
+        "longitude": 127.04485600000001
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "pm10",
+        "o3",
+        "pm25",
+        "so2",
+        "no2",
+        "co"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 247
+        },
+        {
+          "parameter": "o3 ppm",
+          "count": 250
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 244
+        },
+        {
+          "parameter": "so2 ppm",
+          "count": 250
+        },
+        {
+          "parameter": "no2 ppm",
+          "count": 250
+        },
+        {
+          "parameter": "co ppm",
+          "count": 250
+        }
+      ],
+      "count": 1491
+    },
+    {
+      "id": 2622608,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "서울 강남구 도산대로 104",
+      "locations": [
+        "서울 강남구 도산대로 104"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 37.516083,
+        "longitude": 127.019694
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "so2",
+        "pm25",
+        "co",
+        "pm10",
+        "o3",
+        "no2"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "so2 ppm",
+          "count": 252
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 254
+        },
+        {
+          "parameter": "co ppm",
+          "count": 252
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 253
+        },
+        {
+          "parameter": "o3 ppm",
+          "count": 251
+        },
+        {
+          "parameter": "no2 ppm",
+          "count": 251
+        }
+      ],
+      "count": 1513
+    },
+    {
+      "id": 2622630,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "경기도 화성시 우정읍 쌍봉로 109-14 우정읍 행정복지센터",
+      "locations": [
+        "경기도 화성시 우정읍 쌍봉로 109-14 우정읍 행정복지센터"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 37.0898105,
+        "longitude": 126.8152695
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "no2",
+        "co",
+        "pm10",
+        "pm25",
+        "so2",
+        "o3"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "no2 ppm",
+          "count": 219
+        },
+        {
+          "parameter": "co ppm",
+          "count": 220
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 217
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 217
+        },
+        {
+          "parameter": "so2 ppm",
+          "count": 220
+        },
+        {
+          "parameter": "o3 ppm",
+          "count": 221
+        }
+      ],
+      "count": 1314
+    },
+    {
+      "id": 5477,
+      "country": "AU",
+      "city": "Tasmania Region",
+      "cities": [
+        "Tasmania Region"
+      ],
+      "location": "George Town",
+      "locations": [
+        "George Town"
+      ],
+      "sourceName": "Australia - Tasmania",
+      "sourceNames": [
+        "Australia - Tasmania"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": -41.111,
+        "longitude": 146.836
+      },
+      "firstUpdated": "2017-07-19T19:02:21+00:00",
+      "lastUpdated": "2024-04-07T13:52:06+00:00",
+      "parameters": [
+        "pm10",
+        "pm25"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 44693
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 44689
+        }
+      ],
+      "count": 89382
+    },
+    {
+      "id": 2622623,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "경기 연천군 중면 횡산리 산108-1 28사단 태풍전망대 인근",
+      "locations": [
+        "경기 연천군 중면 횡산리 산108-1 28사단 태풍전망대 인근"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 38.129569,
+        "longitude": 126.97371100000001
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "so2",
+        "no2",
+        "pm25",
+        "o3",
+        "co",
+        "pm10"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "so2 ppm",
+          "count": 237
+        },
+        {
+          "parameter": "no2 ppm",
+          "count": 236
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 230
+        },
+        {
+          "parameter": "o3 ppm",
+          "count": 238
+        },
+        {
+          "parameter": "co ppm",
+          "count": 236
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 237
+        }
+      ],
+      "count": 1414
+    },
+    {
+      "id": 2622652,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "경북 포항시 남구 대도동 111-6(상대동평생학습관) 상대동평생학습관",
+      "locations": [
+        "경북 포항시 남구 대도동 111-6(상대동평생학습관) 상대동평생학습관"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 36.018833,
+        "longitude": 129.365867
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "o3",
+        "no2",
+        "pm25",
+        "co",
+        "so2",
+        "pm10"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "o3 ppm",
+          "count": 270
+        },
+        {
+          "parameter": "no2 ppm",
+          "count": 269
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 271
+        },
+        {
+          "parameter": "co ppm",
+          "count": 270
+        },
+        {
+          "parameter": "so2 ppm",
+          "count": 270
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 270
+        }
+      ],
+      "count": 1620
+    },
+    {
+      "id": 2622597,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "전북특별자치도 장수군 장수읍 호비로 10 장수군청 옥상",
+      "locations": [
+        "전북특별자치도 장수군 장수읍 호비로 10 장수군청 옥상"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 35.6473136,
+        "longitude": 127.5211775
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "pm10",
+        "so2",
+        "co",
+        "pm25",
+        "no2",
+        "o3"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 241
+        },
+        {
+          "parameter": "so2 ppm",
+          "count": 240
+        },
+        {
+          "parameter": "co ppm",
+          "count": 241
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 235
+        },
+        {
+          "parameter": "no2 ppm",
+          "count": 240
+        },
+        {
+          "parameter": "o3 ppm",
+          "count": 241
+        }
+      ],
+      "count": 1438
+    },
+    {
+      "id": 5479,
+      "country": "AU",
+      "city": "Tasmania Region",
+      "cities": [
+        "Tasmania Region"
+      ],
+      "location": "South Launceston",
+      "locations": [
+        "South Launceston"
+      ],
+      "sourceName": "Australia - Tasmania",
+      "sourceNames": [
+        "Australia - Tasmania"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": -41.465,
+        "longitude": 147.148
+      },
+      "firstUpdated": "2017-07-13T14:22:24+00:00",
+      "lastUpdated": "2024-04-07T13:52:06+00:00",
+      "parameters": [
+        "pm10",
+        "pm25"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 43896
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 43893
+        }
+      ],
+      "count": 87789
+    },
+    {
+      "id": 2622640,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "전라남도 고흥군 고흥읍 터미널길 11 고흥읍사무소",
+      "locations": [
+        "전라남도 고흥군 고흥읍 터미널길 11 고흥읍사무소"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 34.6062119,
+        "longitude": 127.28053909999998
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "pm25",
+        "no2",
+        "pm10",
+        "o3",
+        "so2",
+        "co"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 192
+        },
+        {
+          "parameter": "no2 ppm",
+          "count": 219
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 220
+        },
+        {
+          "parameter": "o3 ppm",
+          "count": 219
+        },
+        {
+          "parameter": "so2 ppm",
+          "count": 219
+        },
+        {
+          "parameter": "co ppm",
+          "count": 219
+        }
+      ],
+      "count": 1288
+    },
+    {
+      "id": 5470,
+      "country": "AU",
+      "city": "Tasmania Region",
+      "cities": [
+        "Tasmania Region"
+      ],
+      "location": "Oatlands",
+      "locations": [
+        "Oatlands"
+      ],
+      "sourceName": "Australia - Tasmania",
+      "sourceNames": [
+        "Australia - Tasmania"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": -42.3,
+        "longitude": 147.372
+      },
+      "firstUpdated": "2017-07-13T14:20:20+00:00",
+      "lastUpdated": "2024-04-07T13:50:06+00:00",
+      "parameters": [
+        "pm25",
+        "pm10"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 45911
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 45908
+        }
+      ],
+      "count": 91819
+    },
+    {
+      "id": 5478,
+      "country": "AU",
+      "city": "Tasmania Region",
+      "cities": [
+        "Tasmania Region"
+      ],
+      "location": "Scottsdale",
+      "locations": [
+        "Scottsdale"
+      ],
+      "sourceName": "Australia - Tasmania",
+      "sourceNames": [
+        "Australia - Tasmania"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": -41.162,
+        "longitude": 147.515
+      },
+      "firstUpdated": "2017-07-13T14:22:23+00:00",
+      "lastUpdated": "2024-04-07T13:52:06+00:00",
+      "parameters": [
+        "pm10",
+        "pm25"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 46452
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 46450
+        }
+      ],
+      "count": 92902
+    },
+    {
+      "id": 5486,
+      "country": "AU",
+      "city": "Tasmania Region",
+      "cities": [
+        "Tasmania Region"
+      ],
+      "location": "Sheffield",
+      "locations": [
+        "Sheffield"
+      ],
+      "sourceName": "Australia - Tasmania",
+      "sourceNames": [
+        "Australia - Tasmania"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": -41.43,
+        "longitude": 146.338
+      },
+      "firstUpdated": "2017-07-13T14:24:21+00:00",
+      "lastUpdated": "2024-04-07T13:54:06+00:00",
+      "parameters": [
+        "pm25",
+        "pm10"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 46155
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 46159
+        }
+      ],
+      "count": 92314
+    },
+    {
+      "id": 2622670,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "전라남도 해남군 해남읍 남부순환로 114 해남읍사무소",
+      "locations": [
+        "전라남도 해남군 해남읍 남부순환로 114 해남읍사무소"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 34.565366,
+        "longitude": 126.599224
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "no2",
+        "pm10",
+        "co",
+        "so2",
+        "pm25",
+        "o3"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "no2 ppm",
+          "count": 240
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 237
+        },
+        {
+          "parameter": "co ppm",
+          "count": 240
+        },
+        {
+          "parameter": "so2 ppm",
+          "count": 240
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 234
+        },
+        {
+          "parameter": "o3 ppm",
+          "count": 240
+        }
+      ],
+      "count": 1431
+    },
+    {
+      "id": 5464,
+      "country": "AU",
+      "city": "Tasmania Region",
+      "cities": [
+        "Tasmania Region"
+      ],
+      "location": "Cygnet",
+      "locations": [
+        "Cygnet"
+      ],
+      "sourceName": "Australia - Tasmania",
+      "sourceNames": [
+        "Australia - Tasmania"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": -43.159,
+        "longitude": 147.072
+      },
+      "firstUpdated": "2017-07-13T14:20:21+00:00",
+      "lastUpdated": "2024-04-07T13:50:06+00:00",
+      "parameters": [
+        "pm25",
+        "pm10"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 46282
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 46281
+        }
+      ],
+      "count": 92563
+    },
+    {
+      "id": 2622582,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "충남 공주시 봉황로 1 (공주시의회 옥상)",
+      "locations": [
+        "충남 공주시 봉황로 1 (공주시의회 옥상)"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 36.446611,
+        "longitude": 127.11915000000002
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "pm10",
+        "co",
+        "pm25",
+        "o3",
+        "no2",
+        "so2"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 271
+        },
+        {
+          "parameter": "co ppm",
+          "count": 271
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 231
+        },
+        {
+          "parameter": "o3 ppm",
+          "count": 271
+        },
+        {
+          "parameter": "no2 ppm",
+          "count": 271
+        },
+        {
+          "parameter": "so2 ppm",
+          "count": 271
+        }
+      ],
+      "count": 1586
+    },
+    {
+      "id": 2622680,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "광주 서구 상무대로 1165 (광주시립미술관 상록전시관 단독건물) 광주시립미술관",
+      "locations": [
+        "광주 서구 상무대로 1165 (광주시립미술관 상록전시관 단독건물) 광주시립미술관"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 35.156651,
+        "longitude": 126.889699
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "pm25",
+        "o3",
+        "so2",
+        "co",
+        "no2",
+        "pm10"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 262
+        },
+        {
+          "parameter": "o3 ppm",
+          "count": 262
+        },
+        {
+          "parameter": "so2 ppm",
+          "count": 262
+        },
+        {
+          "parameter": "co ppm",
+          "count": 262
+        },
+        {
+          "parameter": "no2 ppm",
+          "count": 262
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 262
+        }
+      ],
+      "count": 1572
+    },
+    {
+      "id": 2622595,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "경기 하남시 대청로 10",
+      "locations": [
+        "경기 하남시 대청로 10"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 37.539109,
+        "longitude": 127.214608
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "pm10",
+        "o3",
+        "so2",
+        "no2",
+        "co",
+        "pm25"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 243
+        },
+        {
+          "parameter": "o3 ppm",
+          "count": 255
+        },
+        {
+          "parameter": "so2 ppm",
+          "count": 248
+        },
+        {
+          "parameter": "no2 ppm",
+          "count": 256
+        },
+        {
+          "parameter": "co ppm",
+          "count": 257
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 250
+        }
+      ],
+      "count": 1509
+    },
+    {
+      "id": 2622589,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "강원특별자치도 양구군 방산면 송현1리 519-2번지 방산배수지 내",
+      "locations": [
+        "강원특별자치도 양구군 방산면 송현1리 519-2번지 방산배수지 내"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 38.224433,
+        "longitude": 127.958583
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "no2",
+        "co",
+        "so2",
+        "pm10",
+        "pm25",
+        "o3"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "no2 ppm",
+          "count": 231
+        },
+        {
+          "parameter": "co ppm",
+          "count": 230
+        },
+        {
+          "parameter": "so2 ppm",
+          "count": 230
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 226
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 210
+        },
+        {
+          "parameter": "o3 ppm",
+          "count": 230
+        }
+      ],
+      "count": 1357
+    },
+    {
+      "id": 5491,
+      "country": "AU",
+      "city": "Tasmania Region",
+      "cities": [
+        "Tasmania Region"
+      ],
+      "location": "West Ulverstone",
+      "locations": [
+        "West Ulverstone"
+      ],
+      "sourceName": "Australia - Tasmania",
+      "sourceNames": [
+        "Australia - Tasmania"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": -41.159,
+        "longitude": 146.146
+      },
+      "firstUpdated": "2017-07-13T14:24:23+00:00",
+      "lastUpdated": "2024-04-07T13:54:06+00:00",
+      "parameters": [
+        "pm10",
+        "pm25"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 43481
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 43478
+        }
+      ],
+      "count": 86959
+    },
+    {
+      "id": 5474,
+      "country": "AU",
+      "city": "Tasmania Region",
+      "cities": [
+        "Tasmania Region"
+      ],
+      "location": "Fingal",
+      "locations": [
+        "Fingal"
+      ],
+      "sourceName": "Australia - Tasmania",
+      "sourceNames": [
+        "Australia - Tasmania"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": -41.638,
+        "longitude": 147.967
+      },
+      "firstUpdated": "2017-07-13T14:22:17+00:00",
+      "lastUpdated": "2024-04-07T13:52:06+00:00",
+      "parameters": [
+        "pm10",
+        "pm25"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 46642
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 46640
+        }
+      ],
+      "count": 93282
+    },
+    {
+      "id": 2622666,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "강원특별자치도 삼척시 남양길 11(남양동 331-9) 남양동주민센터 3층 옥상",
+      "locations": [
+        "강원특별자치도 삼척시 남양길 11(남양동 331-9) 남양동주민센터 3층 옥상"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 37.4425401,
+        "longitude": 129.168344
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "pm10",
+        "no2",
+        "so2",
+        "co",
+        "o3",
+        "pm25"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 230
+        },
+        {
+          "parameter": "no2 ppm",
+          "count": 229
+        },
+        {
+          "parameter": "so2 ppm",
+          "count": 228
+        },
+        {
+          "parameter": "co ppm",
+          "count": 233
+        },
+        {
+          "parameter": "o3 ppm",
+          "count": 231
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 216
+        }
+      ],
+      "count": 1367
+    },
+    {
+      "id": 5465,
+      "country": "AU",
+      "city": "Tasmania Region",
+      "cities": [
+        "Tasmania Region"
+      ],
+      "location": "Judbury",
+      "locations": [
+        "Judbury"
+      ],
+      "sourceName": "Australia - Tasmania",
+      "sourceNames": [
+        "Australia - Tasmania"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": -43.01,
+        "longitude": 146.94
+      },
+      "firstUpdated": "2017-07-13T14:20:19+00:00",
+      "lastUpdated": "2024-04-07T13:50:11+00:00",
+      "parameters": [
+        "pm10",
+        "pm25"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 46819
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 46812
+        }
+      ],
+      "count": 93631
+    },
+    {
+      "id": 2622654,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "경기 안산시 단원구 산단로 112 근로복지관 민주노총",
+      "locations": [
+        "경기 안산시 단원구 산단로 112 근로복지관 민주노총"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 37.305255,
+        "longitude": 126.78850300000002
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "so2",
+        "o3",
+        "pm10",
+        "no2",
+        "pm25",
+        "co"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "so2 ppm",
+          "count": 228
+        },
+        {
+          "parameter": "o3 ppm",
+          "count": 231
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 229
+        },
+        {
+          "parameter": "no2 ppm",
+          "count": 231
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 226
+        },
+        {
+          "parameter": "co ppm",
+          "count": 231
+        }
+      ],
+      "count": 1376
+    },
+    {
+      "id": 5467,
+      "country": "AU",
+      "city": "Tasmania Region",
+      "cities": [
+        "Tasmania Region"
+      ],
+      "location": "Bream Creek",
+      "locations": [
+        "Bream Creek"
+      ],
+      "sourceName": "Australia - Tasmania",
+      "sourceNames": [
+        "Australia - Tasmania"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": -42.819,
+        "longitude": 147.817
+      },
+      "firstUpdated": "2017-07-13T14:20:18+00:00",
+      "lastUpdated": "2024-04-07T13:50:06+00:00",
+      "parameters": [
+        "pm25",
+        "pm10"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 46779
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 46780
+        }
+      ],
+      "count": 93559
+    },
+    {
+      "id": 5240,
+      "country": "AR",
+      "city": "Buenos Aires",
+      "cities": [
+        "Buenos Aires"
+      ],
+      "location": "LA BOCA",
+      "locations": [
+        "LA BOCA"
+      ],
+      "sourceName": "Buenos Aires",
+      "sourceNames": [
+        "Buenos Aires"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": -34.62527,
+        "longitude": -58.365550000000006
+      },
+      "firstUpdated": "2017-08-10T23:00:00+00:00",
+      "lastUpdated": "2024-04-07T03:00:00+00:00",
+      "parameters": [
+        "co",
+        "no2",
+        "pm10"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "co ppm",
+          "count": 19611
+        },
+        {
+          "parameter": "no2 ppm",
+          "count": 19635
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 19622
+        }
+      ],
+      "count": 58868
+    },
+    {
+      "id": 2622603,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "경상남도 창원시 의창구 우곡로101번길 28",
+      "locations": [
+        "경상남도 창원시 의창구 우곡로101번길 28"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 35.243402,
+        "longitude": 128.641756
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "pm10",
+        "so2",
+        "co",
+        "o3",
+        "pm25",
+        "no2"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 262
+        },
+        {
+          "parameter": "so2 ppm",
+          "count": 265
+        },
+        {
+          "parameter": "co ppm",
+          "count": 263
+        },
+        {
+          "parameter": "o3 ppm",
+          "count": 265
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 262
+        },
+        {
+          "parameter": "no2 ppm",
+          "count": 264
+        }
+      ],
+      "count": 1581
+    },
+    {
+      "id": 5472,
+      "country": "AU",
+      "city": "Tasmania Region",
+      "cities": [
+        "Tasmania Region"
+      ],
+      "location": "Campbell Town",
+      "locations": [
+        "Campbell Town"
+      ],
+      "sourceName": "Australia - Tasmania",
+      "sourceNames": [
+        "Australia - Tasmania"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": -41.928,
+        "longitude": 147.491
+      },
+      "firstUpdated": "2017-07-13T14:22:17+00:00",
+      "lastUpdated": "2024-04-07T13:52:06+00:00",
+      "parameters": [
+        "pm10",
+        "pm25"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 45027
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 45025
+        }
+      ],
+      "count": 90052
+    },
+    {
+      "id": 2622658,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "경기도 여주시 대신면 율촌1길 12-10",
+      "locations": [
+        "경기도 여주시 대신면 율촌1길 12-10"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 37.3715,
+        "longitude": 127.5845
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "pm10",
+        "o3",
+        "so2",
+        "co",
+        "pm25",
+        "no2"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 213
+        },
+        {
+          "parameter": "o3 ppm",
+          "count": 213
+        },
+        {
+          "parameter": "so2 ppm",
+          "count": 213
+        },
+        {
+          "parameter": "co ppm",
+          "count": 213
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 185
+        },
+        {
+          "parameter": "no2 ppm",
+          "count": 213
+        }
+      ],
+      "count": 1250
+    },
+    {
+      "id": 2622685,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "경상북도 구미시 산동읍 첨단기업1로 17 구미전자정보기술원 혁신관 옥상",
+      "locations": [
+        "경상북도 구미시 산동읍 첨단기업1로 17 구미전자정보기술원 혁신관 옥상"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 36.141641,
+        "longitude": 128.438685
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "pm10",
+        "so2",
+        "o3",
+        "no2",
+        "co",
+        "pm25"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 293
+        },
+        {
+          "parameter": "so2 ppm",
+          "count": 293
+        },
+        {
+          "parameter": "o3 ppm",
+          "count": 293
+        },
+        {
+          "parameter": "no2 ppm",
+          "count": 293
+        },
+        {
+          "parameter": "co ppm",
+          "count": 293
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 292
+        }
+      ],
+      "count": 1757
+    },
+    {
+      "id": 2622648,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "충북 청주시 흥덕구 복대동",
+      "locations": [
+        "충북 청주시 흥덕구 복대동"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 36.634423,
+        "longitude": 127.447045
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "so2",
+        "no2",
+        "o3",
+        "pm25",
+        "pm10",
+        "co"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "so2 ppm",
+          "count": 97
+        },
+        {
+          "parameter": "no2 ppm",
+          "count": 101
+        },
+        {
+          "parameter": "o3 ppm",
+          "count": 100
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 87
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 99
+        },
+        {
+          "parameter": "co ppm",
+          "count": 96
+        }
+      ],
+      "count": 580
+    },
+    {
+      "id": 233316,
+      "country": "AU",
+      "city": "Tasmania Region",
+      "cities": [
+        "Tasmania Region"
+      ],
+      "location": "Latrobe",
+      "locations": [
+        "Latrobe"
+      ],
+      "sourceName": "Australia - Tasmania",
+      "sourceNames": [
+        "Australia - Tasmania"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": -41.238,
+        "longitude": 146.42
+      },
+      "firstUpdated": "2021-08-23T16:14:15+00:00",
+      "lastUpdated": "2024-04-07T13:54:06+00:00",
+      "parameters": [
+        "pm25",
+        "pm10"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 37551
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 37551
+        }
+      ],
+      "count": 75102
+    },
+    {
+      "id": 5468,
+      "country": "AU",
+      "city": "Tasmania Region",
+      "cities": [
+        "Tasmania Region"
+      ],
+      "location": "Glenorchy",
+      "locations": [
+        "Glenorchy"
+      ],
+      "sourceName": "Australia - Tasmania",
+      "sourceNames": [
+        "Australia - Tasmania"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": -42.842,
+        "longitude": 147.271
+      },
+      "firstUpdated": "2022-10-03T18:10:07+00:00",
+      "lastUpdated": "2024-04-07T13:50:06+00:00",
+      "parameters": [
+        "pm25",
+        "pm10"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 2632
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 2632
+        }
+      ],
+      "count": 5264
+    },
+    {
+      "id": 5483,
+      "country": "AU",
+      "city": "Tasmania Region",
+      "cities": [
+        "Tasmania Region"
+      ],
+      "location": "Westbury",
+      "locations": [
+        "Westbury"
+      ],
+      "sourceName": "Australia - Tasmania",
+      "sourceNames": [
+        "Australia - Tasmania"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": -41.53,
+        "longitude": 146.835
+      },
+      "firstUpdated": "2017-07-13T14:24:18+00:00",
+      "lastUpdated": "2024-04-07T13:54:06+00:00",
+      "parameters": [
+        "pm10",
+        "pm25"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 45711
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 45712
+        }
+      ],
+      "count": 91423
+    },
+    {
+      "id": 2622677,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "인천 서구 거북로 116(석남동)",
+      "locations": [
+        "인천 서구 거북로 116(석남동)"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 37.502778,
+        "longitude": 126.674722
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "pm25",
+        "no2",
+        "co",
+        "so2",
+        "pm10",
+        "o3"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 229
+        },
+        {
+          "parameter": "no2 ppm",
+          "count": 231
+        },
+        {
+          "parameter": "co ppm",
+          "count": 230
+        },
+        {
+          "parameter": "so2 ppm",
+          "count": 231
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 231
+        },
+        {
+          "parameter": "o3 ppm",
+          "count": 231
+        }
+      ],
+      "count": 1383
+    },
+    {
+      "id": 2622606,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "경기 남양주시 경춘로 1037 남양주시청 신관",
+      "locations": [
+        "경기 남양주시 경춘로 1037 남양주시청 신관"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 37.6356,
+        "longitude": 127.2162
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "pm25",
+        "so2",
+        "co",
+        "pm10",
+        "o3",
+        "no2"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 222
+        },
+        {
+          "parameter": "so2 ppm",
+          "count": 224
+        },
+        {
+          "parameter": "co ppm",
+          "count": 224
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 216
+        },
+        {
+          "parameter": "o3 ppm",
+          "count": 224
+        },
+        {
+          "parameter": "no2 ppm",
+          "count": 224
+        }
+      ],
+      "count": 1334
+    },
+    {
+      "id": 2622560,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "대구 달서구 이곡동",
+      "locations": [
+        "대구 달서구 이곡동"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 35.851205,
+        "longitude": 128.51153
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "pm25",
+        "so2",
+        "o3",
+        "pm10",
+        "co",
+        "no2"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 251
+        },
+        {
+          "parameter": "so2 ppm",
+          "count": 261
+        },
+        {
+          "parameter": "o3 ppm",
+          "count": 261
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 256
+        },
+        {
+          "parameter": "co ppm",
+          "count": 261
+        },
+        {
+          "parameter": "no2 ppm",
+          "count": 260
+        }
+      ],
+      "count": 1550
+    },
+    {
+      "id": 5475,
+      "country": "AU",
+      "city": "Tasmania Region",
+      "cities": [
+        "Tasmania Region"
+      ],
+      "location": "Exeter",
+      "locations": [
+        "Exeter"
+      ],
+      "sourceName": "Australia - Tasmania",
+      "sourceNames": [
+        "Australia - Tasmania"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": -41.303,
+        "longitude": 146.951
+      },
+      "firstUpdated": "2017-07-13T14:22:20+00:00",
+      "lastUpdated": "2024-04-07T13:52:06+00:00",
+      "parameters": [
+        "pm10",
+        "pm25"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 45877
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 45884
+        }
+      ],
+      "count": 91761
+    },
+    {
+      "id": 2622615,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "부산광역시 남구 북항로 105 (감만동)",
+      "locations": [
+        "부산광역시 남구 북항로 105 (감만동)"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 35.107926,
+        "longitude": 129.082376
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "pm10",
+        "no2",
+        "so2",
+        "co",
+        "pm25",
+        "o3"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 253
+        },
+        {
+          "parameter": "no2 ppm",
+          "count": 262
+        },
+        {
+          "parameter": "so2 ppm",
+          "count": 262
+        },
+        {
+          "parameter": "co ppm",
+          "count": 262
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 246
+        },
+        {
+          "parameter": "o3 ppm",
+          "count": 263
+        }
+      ],
+      "count": 1548
+    },
+    {
+      "id": 2622612,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "경기 수원시 팔달구 인계동 1047",
+      "locations": [
+        "경기 수원시 팔달구 인계동 1047"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 37.2778,
+        "longitude": 127.0306
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "no2",
+        "o3",
+        "pm10",
+        "so2",
+        "co",
+        "pm25"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "no2 ppm",
+          "count": 243
+        },
+        {
+          "parameter": "o3 ppm",
+          "count": 243
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 242
+        },
+        {
+          "parameter": "so2 ppm",
+          "count": 243
+        },
+        {
+          "parameter": "co ppm",
+          "count": 243
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 228
+        }
+      ],
+      "count": 1442
+    },
+    {
+      "id": 2622578,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "광주 동구 서남로 1",
+      "locations": [
+        "광주 동구 서남로 1"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 35.14583,
+        "longitude": 126.92333
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "pm10",
+        "co",
+        "so2",
+        "no2",
+        "pm25",
+        "o3"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 256
+        },
+        {
+          "parameter": "co ppm",
+          "count": 249
+        },
+        {
+          "parameter": "so2 ppm",
+          "count": 249
+        },
+        {
+          "parameter": "no2 ppm",
+          "count": 249
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 239
+        },
+        {
+          "parameter": "o3 ppm",
+          "count": 249
+        }
+      ],
+      "count": 1491
+    },
+    {
+      "id": 5241,
+      "country": "AR",
+      "city": "Buenos Aires",
+      "cities": [
+        "Buenos Aires"
+      ],
+      "location": "CORDOBA",
+      "locations": [
+        "CORDOBA"
+      ],
+      "sourceName": "Buenos Aires",
+      "sourceNames": [
+        "Buenos Aires"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": -34.60441667,
+        "longitude": -58.39165
+      },
+      "firstUpdated": "2017-08-10T23:00:00+00:00",
+      "lastUpdated": "2024-04-07T03:00:00+00:00",
+      "parameters": [
+        "pm10",
+        "no2",
+        "co"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 19615
+        },
+        {
+          "parameter": "no2 ppm",
+          "count": 19623
+        },
+        {
+          "parameter": "co ppm",
+          "count": 19636
+        }
+      ],
+      "count": 58874
+    },
+    {
+      "id": 2622593,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "경북 포항시 남구 신항로 10",
+      "locations": [
+        "경북 포항시 남구 신항로 10"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 35.9972932,
+        "longitude": 129.4057291
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "no2",
+        "so2",
+        "pm10",
+        "co",
+        "o3",
+        "pm25"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "no2 ppm",
+          "count": 247
+        },
+        {
+          "parameter": "so2 ppm",
+          "count": 247
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 248
+        },
+        {
+          "parameter": "co ppm",
+          "count": 248
+        },
+        {
+          "parameter": "o3 ppm",
+          "count": 248
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 248
+        }
+      ],
+      "count": 1486
+    },
+    {
+      "id": 233317,
+      "country": "AU",
+      "city": "Tasmania Region",
+      "cities": [
+        "Tasmania Region"
+      ],
+      "location": "Queenstown",
+      "locations": [
+        "Queenstown"
+      ],
+      "sourceName": "Australia - Tasmania",
+      "sourceNames": [
+        "Australia - Tasmania"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": -42.081,
+        "longitude": 145.553
+      },
+      "firstUpdated": "2021-08-23T16:12:16+00:00",
+      "lastUpdated": "2024-04-07T13:52:07+00:00",
+      "parameters": [
+        "pm10",
+        "pm25"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 37030
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 37030
+        }
+      ],
+      "count": 74060
+    },
+    {
+      "id": 783876,
+      "country": "HU",
+      "city": "Farkasfa",
+      "cities": [
+        "Farkasfa"
+      ],
+      "location": "Farkasfa",
+      "locations": [
+        "Farkasfa"
+      ],
+      "sourceName": "Hungary National Meteorological Service",
+      "sourceNames": [
+        "Hungary National Meteorological Service"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 46.909557,
+        "longitude": 16.30934
+      },
+      "firstUpdated": "2023-03-30T15:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "o3",
+        "pm10"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "o3 µg/m³",
+          "count": 5706
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 5518
+        }
+      ],
+      "count": 11224
+    },
+    {
+      "id": 2622617,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "경남 진주시 진주대로 1052",
+      "locations": [
+        "경남 진주시 진주대로 1052"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 35.193333,
+        "longitude": 128.084167
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "pm25",
+        "pm10",
+        "no2",
+        "o3",
+        "co",
+        "so2"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 225
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 230
+        },
+        {
+          "parameter": "no2 ppm",
+          "count": 243
+        },
+        {
+          "parameter": "o3 ppm",
+          "count": 244
+        },
+        {
+          "parameter": "co ppm",
+          "count": 243
+        },
+        {
+          "parameter": "so2 ppm",
+          "count": 243
+        }
+      ],
+      "count": 1428
+    },
+    {
+      "id": 2622580,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "부산 동구 구청로 1 동구청 지상",
+      "locations": [
+        "부산 동구 구청로 1 동구청 지상"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 35.139059,
+        "longitude": 129.056923
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "pm10",
+        "pm25",
+        "o3",
+        "no2",
+        "co",
+        "so2"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 267
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 259
+        },
+        {
+          "parameter": "o3 ppm",
+          "count": 266
+        },
+        {
+          "parameter": "no2 ppm",
+          "count": 266
+        },
+        {
+          "parameter": "co ppm",
+          "count": 266
+        },
+        {
+          "parameter": "so2 ppm",
+          "count": 265
+        }
+      ],
+      "count": 1589
+    },
+    {
+      "id": 5487,
+      "country": "AU",
+      "city": "Tasmania Region",
+      "cities": [
+        "Tasmania Region"
+      ],
+      "location": "Wynyard",
+      "locations": [
+        "Wynyard"
+      ],
+      "sourceName": "Australia - Tasmania",
+      "sourceNames": [
+        "Australia - Tasmania"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": -40.992,
+        "longitude": 145.718
+      },
+      "firstUpdated": "2017-07-13T14:24:25+00:00",
+      "lastUpdated": "2024-04-07T13:54:07+00:00",
+      "parameters": [
+        "pm10",
+        "pm25"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 46517
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 46514
+        }
+      ],
+      "count": 93031
+    },
+    {
+      "id": 2622555,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "인천 서구 오류동 경인항 인천컨테이너 부두 내",
+      "locations": [
+        "인천 서구 오류동 경인항 인천컨테이너 부두 내"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 37.566459,
+        "longitude": 126.59512199999999
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "no2",
+        "pm10",
+        "o3",
+        "co",
+        "pm25",
+        "so2"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "no2 ppm",
+          "count": 233
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 217
+        },
+        {
+          "parameter": "o3 ppm",
+          "count": 233
+        },
+        {
+          "parameter": "co ppm",
+          "count": 233
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 209
+        },
+        {
+          "parameter": "so2 ppm",
+          "count": 234
+        }
+      ],
+      "count": 1359
+    },
+    {
+      "id": 2622588,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "경상남도 산청군 산청읍 산엔청로 1",
+      "locations": [
+        "경상남도 산청군 산청읍 산엔청로 1"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 35.412344,
+        "longitude": 127.87597
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "co",
+        "pm25",
+        "o3",
+        "so2",
+        "pm10",
+        "no2"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "co ppm",
+          "count": 254
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 242
+        },
+        {
+          "parameter": "o3 ppm",
+          "count": 255
+        },
+        {
+          "parameter": "so2 ppm",
+          "count": 254
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 249
+        },
+        {
+          "parameter": "no2 ppm",
+          "count": 254
+        }
+      ],
+      "count": 1508
+    },
+    {
+      "id": 2622657,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "대구광역시 달성군 화원읍 인흥1길 12 화원명곡체육공원",
+      "locations": [
+        "대구광역시 달성군 화원읍 인흥1길 12 화원명곡체육공원"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 35.79736,
+        "longitude": 128.50485
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "pm10",
+        "co",
+        "o3",
+        "pm25",
+        "no2",
+        "so2"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 244
+        },
+        {
+          "parameter": "co ppm",
+          "count": 246
+        },
+        {
+          "parameter": "o3 ppm",
+          "count": 246
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 227
+        },
+        {
+          "parameter": "no2 ppm",
+          "count": 246
+        },
+        {
+          "parameter": "so2 ppm",
+          "count": 246
+        }
+      ],
+      "count": 1455
+    },
+    {
+      "id": 2622663,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "전북특별자치도 임실군 관촌면 사선1길 13 관촌면 행정복지센터 옥상",
+      "locations": [
+        "전북특별자치도 임실군 관촌면 사선1길 13 관촌면 행정복지센터 옥상"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 35.673703,
+        "longitude": 127.270625
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "pm25",
+        "pm10",
+        "no2",
+        "o3",
+        "co",
+        "so2"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 238
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 251
+        },
+        {
+          "parameter": "no2 ppm",
+          "count": 250
+        },
+        {
+          "parameter": "o3 ppm",
+          "count": 251
+        },
+        {
+          "parameter": "co ppm",
+          "count": 251
+        },
+        {
+          "parameter": "so2 ppm",
+          "count": 251
+        }
+      ],
+      "count": 1492
+    },
+    {
+      "id": 5482,
+      "country": "AU",
+      "city": "Tasmania Region",
+      "cities": [
+        "Tasmania Region"
+      ],
+      "location": "Emu River",
+      "locations": [
+        "Emu River"
+      ],
+      "sourceName": "Australia - Tasmania",
+      "sourceNames": [
+        "Australia - Tasmania"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": -41.108,
+        "longitude": 145.883
+      },
+      "firstUpdated": "2022-10-03T18:14:07+00:00",
+      "lastUpdated": "2024-04-07T13:54:06+00:00",
+      "parameters": [
+        "pm25",
+        "pm10"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 2625
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 2625
+        }
+      ],
+      "count": 5250
+    },
+    {
+      "id": 2622601,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "인천광역시 남동구 서창남로 101",
+      "locations": [
+        "인천광역시 남동구 서창남로 101"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 37.4274,
+        "longitude": 126.7461
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "o3",
+        "so2",
+        "co",
+        "pm25",
+        "pm10",
+        "no2"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "o3 ppm",
+          "count": 227
+        },
+        {
+          "parameter": "so2 ppm",
+          "count": 228
+        },
+        {
+          "parameter": "co ppm",
+          "count": 229
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 224
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 226
+        },
+        {
+          "parameter": "no2 ppm",
+          "count": 228
+        }
+      ],
+      "count": 1362
+    },
+    {
+      "id": 2622610,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "경기도 고양시 일산서구 주엽로 104",
+      "locations": [
+        "경기도 고양시 일산서구 주엽로 104"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 37.6683,
+        "longitude": 126.7564
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "no2",
+        "so2",
+        "co",
+        "pm25",
+        "o3",
+        "pm10"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "no2 ppm",
+          "count": 235
+        },
+        {
+          "parameter": "so2 ppm",
+          "count": 235
+        },
+        {
+          "parameter": "co ppm",
+          "count": 235
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 217
+        },
+        {
+          "parameter": "o3 ppm",
+          "count": 235
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 235
+        }
+      ],
+      "count": 1392
+    },
+    {
+      "id": 2622668,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "경상북도 의성군 안계면 안계길 114 안계면사무소 옥상",
+      "locations": [
+        "경상북도 의성군 안계면 안계길 114 안계면사무소 옥상"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 36.383964,
+        "longitude": 128.440179
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "no2",
+        "co",
+        "so2",
+        "o3",
+        "pm10",
+        "pm25"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "no2 ppm",
+          "count": 271
+        },
+        {
+          "parameter": "co ppm",
+          "count": 271
+        },
+        {
+          "parameter": "so2 ppm",
+          "count": 272
+        },
+        {
+          "parameter": "o3 ppm",
+          "count": 272
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 269
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 266
+        }
+      ],
+      "count": 1621
+    },
+    {
+      "id": 2622633,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "경기도 포천시 일동면 화동로1099번길 30 일동면행정복지센터",
+      "locations": [
+        "경기도 포천시 일동면 화동로1099번길 30 일동면행정복지센터"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 37.9613,
+        "longitude": 127.31710000000001
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "co",
+        "pm10",
+        "o3",
+        "no2",
+        "pm25",
+        "so2"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "co ppm",
+          "count": 273
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 256
+        },
+        {
+          "parameter": "o3 ppm",
+          "count": 272
+        },
+        {
+          "parameter": "no2 ppm",
+          "count": 272
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 246
+        },
+        {
+          "parameter": "so2 ppm",
+          "count": 271
+        }
+      ],
+      "count": 1590
+    },
+    {
+      "id": 5488,
+      "country": "AU",
+      "city": "Tasmania Region",
+      "cities": [
+        "Tasmania Region"
+      ],
+      "location": "Smithton",
+      "locations": [
+        "Smithton"
+      ],
+      "sourceName": "Australia - Tasmania",
+      "sourceNames": [
+        "Australia - Tasmania"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": -40.85,
+        "longitude": 145.133
+      },
+      "firstUpdated": "2017-07-13T14:24:21+00:00",
+      "lastUpdated": "2024-04-07T13:54:07+00:00",
+      "parameters": [
+        "pm25",
+        "pm10"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 43348
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 43351
+        }
+      ],
+      "count": 86699
+    },
+    {
+      "id": 5456,
+      "country": "AU",
+      "city": "Tasmania Region",
+      "cities": [
+        "Tasmania Region"
+      ],
+      "location": "Ti Tree Bend",
+      "locations": [
+        "Ti Tree Bend"
+      ],
+      "sourceName": "Australia - Tasmania",
+      "sourceNames": [
+        "Australia - Tasmania"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": -41.419,
+        "longitude": 147.124
+      },
+      "firstUpdated": "2017-07-13T14:22:07+00:00",
+      "lastUpdated": "2024-04-07T13:52:06+00:00",
+      "parameters": [
+        "pm10",
+        "pm25"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 46718
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 46712
+        }
+      ],
+      "count": 93430
+    },
+    {
+      "id": 2622664,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "대구 달서구 성서공단로 11길 32 대구기계부품연구원 1동 옥상 대구기계부품연구원",
+      "locations": [
+        "대구 달서구 성서공단로 11길 32 대구기계부품연구원 1동 옥상 대구기계부품연구원"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 35.837879,
+        "longitude": 128.488731
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "so2",
+        "co",
+        "pm25",
+        "o3",
+        "pm10",
+        "no2"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "so2 ppm",
+          "count": 242
+        },
+        {
+          "parameter": "co ppm",
+          "count": 245
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 236
+        },
+        {
+          "parameter": "o3 ppm",
+          "count": 245
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 244
+        },
+        {
+          "parameter": "no2 ppm",
+          "count": 245
+        }
+      ],
+      "count": 1457
+    },
+    {
+      "id": 5461,
+      "country": "AU",
+      "city": "Tasmania Region",
+      "cities": [
+        "Tasmania Region"
+      ],
+      "location": "New Norfolk",
+      "locations": [
+        "New Norfolk"
+      ],
+      "sourceName": "Australia - Tasmania",
+      "sourceNames": [
+        "Australia - Tasmania"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": -42.776,
+        "longitude": 147.054
+      },
+      "firstUpdated": "2017-07-13T14:20:17+00:00",
+      "lastUpdated": "2024-04-07T13:50:06+00:00",
+      "parameters": [
+        "pm25",
+        "pm10"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 46530
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 46533
+        }
+      ],
+      "count": 93063
+    },
+    {
+      "id": 5490,
+      "country": "AU",
+      "city": "Tasmania Region",
+      "cities": [
+        "Tasmania Region"
+      ],
+      "location": "Perth",
+      "locations": [
+        "Perth"
+      ],
+      "sourceName": "Australia - Tasmania",
+      "sourceNames": [
+        "Australia - Tasmania"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": -41.578,
+        "longitude": 147.172
+      },
+      "firstUpdated": "2017-07-13T14:24:26+00:00",
+      "lastUpdated": "2024-04-07T13:54:06+00:00",
+      "parameters": [
+        "pm10",
+        "pm25"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 45470
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 45465
+        }
+      ],
+      "count": 90935
+    },
+    {
+      "id": 2622636,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "경기 의왕시 시청로 11 의왕시청 민원실",
+      "locations": [
+        "경기 의왕시 시청로 11 의왕시청 민원실"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 37.3442,
+        "longitude": 126.96900000000001
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "so2",
+        "pm25",
+        "no2",
+        "pm10",
+        "o3",
+        "co"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "so2 ppm",
+          "count": 258
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 256
+        },
+        {
+          "parameter": "no2 ppm",
+          "count": 257
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 258
+        },
+        {
+          "parameter": "o3 ppm",
+          "count": 257
+        },
+        {
+          "parameter": "co ppm",
+          "count": 257
+        }
+      ],
+      "count": 1543
+    },
+    {
+      "id": 2622605,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "광주광역시 광산구 우산동 1026-2 월곡119안전센터 인근 사유지 (우산동)",
+      "locations": [
+        "광주광역시 광산구 우산동 1026-2 월곡119안전센터 인근 사유지 (우산동)"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 35.157742,
+        "longitude": 126.810097
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "no2",
+        "pm25",
+        "o3",
+        "co",
+        "pm10",
+        "so2"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "no2 ppm",
+          "count": 359
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 307
+        },
+        {
+          "parameter": "o3 ppm",
+          "count": 354
+        },
+        {
+          "parameter": "co ppm",
+          "count": 355
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 349
+        },
+        {
+          "parameter": "so2 ppm",
+          "count": 354
+        }
+      ],
+      "count": 2078
+    },
+    {
+      "id": 5481,
+      "country": "AU",
+      "city": "Tasmania Region",
+      "cities": [
+        "Tasmania Region"
+      ],
+      "location": "Longford",
+      "locations": [
+        "Longford"
+      ],
+      "sourceName": "Australia - Tasmania",
+      "sourceNames": [
+        "Australia - Tasmania"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": -41.595,
+        "longitude": 147.122
+      },
+      "firstUpdated": "2017-07-13T14:24:19+00:00",
+      "lastUpdated": "2024-04-07T13:54:06+00:00",
+      "parameters": [
+        "pm10",
+        "pm25"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 46232
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 46230
+        }
+      ],
+      "count": 92462
+    },
+    {
+      "id": 2622629,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "경기도 화성시 우정읍 쌍봉로 109-14 우정읍 행정복지센터",
+      "locations": [
+        "경기도 화성시 우정읍 쌍봉로 109-14 우정읍 행정복지센터"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 37.0898105,
+        "longitude": 126.8152695
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "o3",
+        "pm25",
+        "pm10",
+        "co",
+        "so2",
+        "no2"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "o3 ppm",
+          "count": 260
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 250
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 249
+        },
+        {
+          "parameter": "co ppm",
+          "count": 259
+        },
+        {
+          "parameter": "so2 ppm",
+          "count": 258
+        },
+        {
+          "parameter": "no2 ppm",
+          "count": 259
+        }
+      ],
+      "count": 1535
+    },
+    {
+      "id": 2622661,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "경기 여주시 여흥로11번길 26",
+      "locations": [
+        "경기 여주시 여흥로11번길 26"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 37.298663,
+        "longitude": 127.628936
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "so2",
+        "pm25",
+        "o3",
+        "co",
+        "no2",
+        "pm10"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "so2 ppm",
+          "count": 239
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 218
+        },
+        {
+          "parameter": "o3 ppm",
+          "count": 239
+        },
+        {
+          "parameter": "co ppm",
+          "count": 239
+        },
+        {
+          "parameter": "no2 ppm",
+          "count": 239
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 238
+        }
+      ],
+      "count": 1412
+    },
+    {
+      "id": 2622682,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "경기도 이천시 부발읍 무촌로 117",
+      "locations": [
+        "경기도 이천시 부발읍 무촌로 117"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 37.2832583,
+        "longitude": 127.4866839
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "co",
+        "no2",
+        "so2",
+        "pm25",
+        "o3",
+        "pm10"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "co ppm",
+          "count": 262
+        },
+        {
+          "parameter": "no2 ppm",
+          "count": 262
+        },
+        {
+          "parameter": "so2 ppm",
+          "count": 262
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 224
+        },
+        {
+          "parameter": "o3 ppm",
+          "count": 262
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 259
+        }
+      ],
+      "count": 1531
+    },
+    {
+      "id": 2622571,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "충북 괴산군 청천면 송문로 덕평길 54-13(덕평민원봉사실)",
+      "locations": [
+        "충북 괴산군 청천면 송문로 덕평길 54-13(덕평민원봉사실)"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 36.730926,
+        "longitude": 127.804682
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "so2",
+        "pm25",
+        "o3",
+        "pm10",
+        "no2",
+        "co"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "so2 ppm",
+          "count": 226
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 213
+        },
+        {
+          "parameter": "o3 ppm",
+          "count": 227
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 227
+        },
+        {
+          "parameter": "no2 ppm",
+          "count": 227
+        },
+        {
+          "parameter": "co ppm",
+          "count": 227
+        }
+      ],
+      "count": 1347
+    },
+    {
+      "id": 5485,
+      "country": "AU",
+      "city": "Tasmania Region",
+      "cities": [
+        "Tasmania Region"
+      ],
+      "location": "Deloraine",
+      "locations": [
+        "Deloraine"
+      ],
+      "sourceName": "Australia - Tasmania",
+      "sourceNames": [
+        "Australia - Tasmania"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": -41.523,
+        "longitude": 146.658
+      },
+      "firstUpdated": "2017-07-13T14:24:20+00:00",
+      "lastUpdated": "2024-04-07T13:54:07+00:00",
+      "parameters": [
+        "pm10",
+        "pm25"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 45359
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 45357
+        }
+      ],
+      "count": 90716
+    },
+    {
+      "id": 2622642,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "강원특별자치도 원주시 문막읍 건등로 11 문막읍행정복지센터 부지내 지상",
+      "locations": [
+        "강원특별자치도 원주시 문막읍 건등로 11 문막읍행정복지센터 부지내 지상"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 37.3125964,
+        "longitude": 127.81716860000002
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "no2",
+        "pm10",
+        "co",
+        "o3",
+        "so2",
+        "pm25"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "no2 ppm",
+          "count": 231
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 231
+        },
+        {
+          "parameter": "co ppm",
+          "count": 230
+        },
+        {
+          "parameter": "o3 ppm",
+          "count": 231
+        },
+        {
+          "parameter": "so2 ppm",
+          "count": 231
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 230
+        }
+      ],
+      "count": 1384
+    },
+    {
+      "id": 5463,
+      "country": "AU",
+      "city": "Tasmania Region",
+      "cities": [
+        "Tasmania Region"
+      ],
+      "location": "Gretna",
+      "locations": [
+        "Gretna"
+      ],
+      "sourceName": "Australia - Tasmania",
+      "sourceNames": [
+        "Australia - Tasmania"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": -42.684,
+        "longitude": 146.936
+      },
+      "firstUpdated": "2017-07-13T14:20:16+00:00",
+      "lastUpdated": "2024-04-07T13:50:09+00:00",
+      "parameters": [
+        "pm10",
+        "pm25"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 46251
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 46252
+        }
+      ],
+      "count": 92503
+    },
+    {
+      "id": 2622599,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "부산 연제구 중앙대로 1001 부산광역시청 녹음광장 창고",
+      "locations": [
+        "부산 연제구 중앙대로 1001 부산광역시청 녹음광장 창고"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 35.184734,
+        "longitude": 129.078112
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "co",
+        "no2",
+        "pm25",
+        "o3",
+        "so2",
+        "pm10"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "co ppm",
+          "count": 280
+        },
+        {
+          "parameter": "no2 ppm",
+          "count": 280
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 234
+        },
+        {
+          "parameter": "o3 ppm",
+          "count": 279
+        },
+        {
+          "parameter": "so2 ppm",
+          "count": 278
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 281
+        }
+      ],
+      "count": 1632
+    },
+    {
+      "id": 2622620,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "전북특별자치도 전주시 덕진구 서귀로 107",
+      "locations": [
+        "전북특별자치도 전주시 덕진구 서귀로 107"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 35.851533,
+        "longitude": 127.087
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "o3",
+        "so2",
+        "no2",
+        "pm25",
+        "pm10",
+        "co"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "o3 ppm",
+          "count": 380
+        },
+        {
+          "parameter": "so2 ppm",
+          "count": 380
+        },
+        {
+          "parameter": "no2 ppm",
+          "count": 382
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 301
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 373
+        },
+        {
+          "parameter": "co ppm",
+          "count": 372
+        }
+      ],
+      "count": 2188
+    },
+    {
+      "id": 5469,
+      "country": "AU",
+      "city": "Tasmania Region",
+      "cities": [
+        "Tasmania Region"
+      ],
+      "location": "Huonville",
+      "locations": [
+        "Huonville"
+      ],
+      "sourceName": "Australia - Tasmania",
+      "sourceNames": [
+        "Australia - Tasmania"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": -43.03,
+        "longitude": 147.05
+      },
+      "firstUpdated": "2017-07-13T14:20:18+00:00",
+      "lastUpdated": "2024-04-07T13:50:06+00:00",
+      "parameters": [
+        "pm25",
+        "pm10"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 46481
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 46484
+        }
+      ],
+      "count": 92965
+    },
+    {
+      "id": 2622625,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "전북특별자치도 남원시 운봉읍 황산로 1083",
+      "locations": [
+        "전북특별자치도 남원시 운봉읍 황산로 1083"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 35.439481,
+        "longitude": 127.529153
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "so2",
+        "no2",
+        "o3",
+        "pm25",
+        "pm10",
+        "co"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "so2 ppm",
+          "count": 249
+        },
+        {
+          "parameter": "no2 ppm",
+          "count": 249
+        },
+        {
+          "parameter": "o3 ppm",
+          "count": 249
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 250
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 249
+        },
+        {
+          "parameter": "co ppm",
+          "count": 249
+        }
+      ],
+      "count": 1495
+    },
+    {
+      "id": 2622619,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "전북특별자치도 전주시 완산구 용리로 107 삼천도서관 옥상",
+      "locations": [
+        "전북특별자치도 전주시 완산구 용리로 107 삼천도서관 옥상"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 35.798946,
+        "longitude": 127.121698
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "pm25",
+        "so2",
+        "pm10",
+        "no2",
+        "o3",
+        "co"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 263
+        },
+        {
+          "parameter": "so2 ppm",
+          "count": 267
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 266
+        },
+        {
+          "parameter": "no2 ppm",
+          "count": 266
+        },
+        {
+          "parameter": "o3 ppm",
+          "count": 266
+        },
+        {
+          "parameter": "co ppm",
+          "count": 266
+        }
+      ],
+      "count": 1594
+    },
+    {
+      "id": 2622676,
+      "country": "KR",
+      "city": " ",
+      "cities": [
+        " "
+      ],
+      "location": "서울 강동구 천호대로 1151",
+      "locations": [
+        "서울 강동구 천호대로 1151"
+      ],
+      "sourceName": "Korea Air Ministry of Environment",
+      "sourceNames": [
+        "Korea Air Ministry of Environment"
+      ],
+      "sourceType": "government",
+      "sourceTypes": [
+        "government"
+      ],
+      "coordinates": {
+        "latitude": 37.534035,
+        "longitude": 127.139172
+      },
+      "firstUpdated": "2024-03-20T08:00:00+00:00",
+      "lastUpdated": "2024-04-06T23:00:00+00:00",
+      "parameters": [
+        "o3",
+        "co",
+        "pm10",
+        "no2",
+        "pm25",
+        "so2"
+      ],
+      "countsByMeasurement": [
+        {
+          "parameter": "o3 ppm",
+          "count": 239
+        },
+        {
+          "parameter": "co ppm",
+          "count": 239
+        },
+        {
+          "parameter": "pm10 µg/m³",
+          "count": 230
+        },
+        {
+          "parameter": "no2 ppm",
+          "count": 237
+        },
+        {
+          "parameter": "pm25 µg/m³",
+          "count": 225
+        },
+        {
+          "parameter": "so2 ppm",
+          "count": 239
+        }
+      ],
+      "count": 1409
+    }
+  ]
+}
