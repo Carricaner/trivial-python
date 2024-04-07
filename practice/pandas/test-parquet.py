@@ -27,9 +27,9 @@ def try_plot() -> None:
 
 
 if __name__ == '__main__':
-    parquet_file = pq.ParquetFile('example.parquet')
+    parquet_file = pq.ParquetFile('../../data/example.parquet')
     print(parquet_file.metadata)
-    print(pq.read_metadata('example.parquet'))
+    print(pq.read_metadata('../../data/example.parquet'))
     # print(parquet_file.schema)
     # print(parquet_file.num_row_groups)
     # print(parquet_file.read_row_group(0))

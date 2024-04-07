@@ -1,7 +1,7 @@
 import pandas as pd
 
 if __name__ == '__main__':
-    titanic = pd.read_excel("data/titanic.xlsx")
+    titanic = pd.read_excel("../../data/titanic.xlsx")
 
     print(titanic.sort_values(by="Age").head())
     #      PassengerId  Survived  Pclass  ...     Fare Cabin  Embarked
@@ -21,7 +21,7 @@ if __name__ == '__main__':
     # 483       3  63.0
     # 326       3  61.0
 
-    air_quality = pd.read_csv("data/air_quality_long.csv")
+    air_quality = pd.read_csv("../../data/air_quality_long.csv")
     air_quality.set_index('date.utc', inplace=True)
 
     no2 = air_quality[air_quality["parameter"] == "no2"]

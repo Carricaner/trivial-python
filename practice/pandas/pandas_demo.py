@@ -14,7 +14,7 @@ df = pd.DataFrame(
 )
 
 if __name__ == '__main__':
-    titanic = pd.read_excel("titanic.xlsx", sheet_name="passengers")
+    titanic = pd.read_excel("../../data/titanic.xlsx", sheet_name="passengers")
     # I’m interested in the names of the passengers older than 35 years.
     # When using loc/iloc, the part before the comma is the rows you want,
     # and the part after the comma is the columns you want to select.

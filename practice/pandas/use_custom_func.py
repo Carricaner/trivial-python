@@ -6,7 +6,7 @@ def convert(cabin: int) -> bool:
 
 
 if __name__ == "__main__":
-    titanic = pd.read_csv("data/titanic.csv")
+    titanic = pd.read_csv("../../data/titanic.csv")
     print(titanic.head())
     #    PassengerId  Survived  Pclass  ...     Fare Cabin  Embarked
     # 0            1         0       3  ...   7.2500   NaN         S

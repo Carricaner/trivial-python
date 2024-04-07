@@ -1,7 +1,7 @@
 import pandas as pd
 
 if __name__ == '__main__':
-    titanic = pd.read_excel("data/titanic.xlsx")
+    titanic = pd.read_excel("../../data/titanic.xlsx")
     print(titanic["Age"].mean())
     # 29.69911764705882
 
